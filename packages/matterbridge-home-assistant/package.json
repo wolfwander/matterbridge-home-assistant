@@ -64,7 +64,8 @@
     "@home-assistant-matter-hub/core": "^2.7.2",
     "json5": "^2.2.3",
     "winston": "^3.13.1",
-    "ws": "^8.18.0"
+    "ws": "^8.18.0",
+    "husky": "^9.1.6"
   },
   "devDependencies": {
     "@project-chip/matter.js": "^0.9.4",
