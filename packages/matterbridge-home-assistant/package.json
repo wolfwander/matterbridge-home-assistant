@@ -1,10 +1,10 @@
 {
-  "author": "https://github.com/t0bst4r",
+  "author": "https://github.com/wolfwander",
   "license": "Apache-2.0",
   "description": "Matterbridge Home Assistant plugin",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/t0bst4r/matterbridge-home-assistant.git",
+    "url": "git+https://github.com/wolfwander/matterbridge-home-assistant.git",
     "directory": "packages/matterbridge-home-assistant"
   },
   "keywords": [
@@ -15,8 +15,8 @@
     "home-assistant",
     "homeassistant"
   ],
-  "homepage": "https://github.com/t0bst4r/matterbridge-home-assistant/blob/-/packages/matterbridge-home-assistant/README.md",
-  "bugs": "https://github.com/t0bst4r/matterbridge-home-assistant/issues",
+  "homepage": "https://github.com/wolfwander/matterbridge-home-assistant/blob/-/packages/matterbridge-home-assistant/README.md",
+  "bugs": "https://github.com/wolfwander/matterbridge-home-assistant/issues",
   "name": "matterbridge-home-assistant",
   "version": "2.9.0-PSA",
   "main": "lib/index.js",
