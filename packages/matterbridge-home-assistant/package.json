@@ -4,7 +4,7 @@
   "description": "Matterbridge Home Assistant plugin",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wolfwander/matterbridge-home-assistant.git",
+    "url": "git+https://github.com/wolfwander/matterbridge-home-assistant.git"
   },
   "bugs": {
     "url": "https://github.com/Luligu/matterbridge-zigbee2mqtt/issues"
