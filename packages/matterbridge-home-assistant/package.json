@@ -5,7 +5,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wolfwander/matterbridge-home-assistant.git",
-    "directory": "packages/matterbridge-home-assistant"
+  },
+  "bugs": {
+    "url": "https://github.com/Luligu/matterbridge-zigbee2mqtt/issues"
   },
   "keywords": [
     "matter",
@@ -15,8 +17,7 @@
     "home-assistant",
     "homeassistant"
   ],
-  "homepage": "https://github.com/wolfwander/matterbridge-home-assistant/blob/-/packages/matterbridge-home-assistant/README.md",
-  "bugs": "https://github.com/wolfwander/matterbridge-home-assistant/issues",
+  "homepage": "https://github.com/wolfwander/matterbridge-home-assistant/blob/-/packages/matterbridge-home-assistant/README.md"
   "name": "matterbridge-home-assistant",
   "version": "2.9.0-PSA",
   "main": "lib/index.js",
